@@ -36,4 +36,8 @@ uvicorn
 langserve
 langchain_core
 PyPDF2
+
 gradio
+ddgs==4.0.3
+
+duckduckgo-search==5.3.0
