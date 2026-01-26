@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://Nisar143:$HF_TOKEN@huggingface.co/spaces/Nisar143/Nisar143/search_engine_llm main
+        run: git push https://Nisar143:$HF_TOKEN@huggingface.co/spaces/Nisar143/Nisar143/Nisar143/test_llm main
